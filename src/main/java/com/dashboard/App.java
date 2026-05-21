@@ -77,7 +77,7 @@ public class App extends Application {
         dashboard.setPadding(new Insets(25));
 
         Label title = new Label(
-                "DevOps Monitoring Dashboard"
+                "System Monitoring Dashboard"
         );
 
         title.setStyle(
