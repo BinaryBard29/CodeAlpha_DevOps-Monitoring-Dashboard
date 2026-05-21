@@ -178,10 +178,5 @@ gradle clean
 # Author
 
 Chinmay Upadhyaya
-
-
 ---
-
-# GitHub
-
 If you liked this project, consider giving it a star.
